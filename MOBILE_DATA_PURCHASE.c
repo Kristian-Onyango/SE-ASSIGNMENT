@@ -1,3 +1,10 @@
+/*
+NAME:KRISTIAN ONYANGO
+REG:PA106/G/28750/25
+DESCRIPTION:CODE TO PROMPT USER TO ENTER DATA BUNDLES OF THEIR CHOICE
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -42,8 +49,11 @@ int main()
    default:
     printf("Invalid choice.");
 
+return 0;
+
    }
 
 
     return 0;
 }
+
