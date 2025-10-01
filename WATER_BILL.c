@@ -1,3 +1,9 @@
+/*
+NAME:KRISTIAN ONYANGO
+REG:PA106/G/28750/25
+DESCRIPTION:CODE TO CALCULATE THE WATER BILL OF CUSTOMERS
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -24,9 +30,11 @@ int main()
         bill = units * 30;
         printf("Your total bill is KES %.2lf", bill);
 
+return 0;
     }
 
 
 
     return 0;
 }
+
